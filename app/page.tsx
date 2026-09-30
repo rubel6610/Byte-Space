@@ -3,6 +3,7 @@ import BrandCarousel from "@/components/BrandCarousel";
 import CoursesSection from "@/components/CoursesSection";
 import LearningPaths from "@/components/LearningPaths";
 import ProfessionalSection from "@/components/ProfessionalSection";
+import CreatorCTA from "@/components/CreatorCTA";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <CoursesSection />
       <LearningPaths />
       <ProfessionalSection />
+      <CreatorCTA />
     </>
   );
 }
