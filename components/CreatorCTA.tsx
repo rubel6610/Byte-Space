@@ -86,7 +86,7 @@ export default function CreatorCTA() {
 
       {/* ---------------- Center CTA Content ---------------- */}
       <div className="relative z-20 max-w-4xl mx-auto text-center flex flex-col items-center justify-center my-auto">
-        <h2 className="text-2xl sm:text-4xl md:text-5xl lg:text-[48px] font-extrabold text-white tracking-tight leading-[1.15]">
+        <h2 className="text-2xl sm:text-4xl md:text-5xl lg:text-[48px] font-semibold text-white tracking-tight leading-[1.15]">
           Unlock Your Potential as a <br className="hidden sm:inline" />
           Creator with ByteSpace
         </h2>

@@ -41,7 +41,7 @@ export default function ProfessionalSection() {
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-8 items-center">
           {/* Left Column: Copy & Stats */}
           <div className="lg:col-span-6 xl:col-span-6 flex flex-col justify-center">
-            <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-[46px] font-extrabold text-gray-900 tracking-tight leading-[1.15]">
+            <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-[46px] font-semibold text-gray-900 tracking-tight leading-[1.15]">
               Your Path to Professional <br className="hidden sm:inline" />
               Growth Starts Here!
             </h2>
@@ -97,7 +97,7 @@ export default function ProfessionalSection() {
 
           {/* Right Column: Copy & Feature Checkmarks */}
           <div className="lg:col-span-6 xl:col-span-6 flex flex-col justify-center order-1 lg:order-2">
-            <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-[46px] font-extrabold text-gray-900 tracking-tight leading-[1.15]">
+            <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-[46px] font-semibold text-gray-900 tracking-tight leading-[1.15]">
               Create & Manage <br className="hidden sm:inline" />
               Courses Easily.
             </h2>

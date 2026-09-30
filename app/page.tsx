@@ -5,6 +5,7 @@ import LearningPaths from "@/components/LearningPaths";
 import ProfessionalSection from "@/components/ProfessionalSection";
 import CreatorCTA from "@/components/CreatorCTA";
 import TestimonialsSection from "@/components/TestimonialsSection";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <ProfessionalSection />
       <CreatorCTA />
       <TestimonialsSection />
+      <Footer />
     </>
   );
 }
